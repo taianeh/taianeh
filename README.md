@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Helen 
 - 👀 I’m interested in aprender coisas novas 
-- 🌱 I’m currently learning pyton/java script
+- 🌱 I’m currently learning pyton /  java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @helensousa485@gmail.com
 - 😄 Pronouns: ...
